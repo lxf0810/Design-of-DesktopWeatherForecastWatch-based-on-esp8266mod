@@ -24,3 +24,9 @@ LED---------->GPIO12  (D6)
 蜂鸣器------->GPIO13  (D7)  
 按键--------->GPIO5   (D1)  
 
+这里选择开发环境：Arduino IDE  
+需要将目录“ESP8266MOD” “ArduinoJson” 复制到arduino安装  
+目录(E:\Software_Setup_Set\arduinoSetup\)中的  
+"libraries"目录中     
+
+https://space.bilibili.com/314404732
